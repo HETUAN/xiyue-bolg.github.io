@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.20240731.xyz/post/7050c93f.html</loc>
+    
+    <lastmod>2025-10-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.20240731.xyz/post/7b0ee1ea.html</loc>
     
     <lastmod>2025-10-25</lastmod>
@@ -89,10 +98,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://www.20240731.xyz/tags/%E8%AF%97%E8%AF%8D/</loc>
+    <lastmod>2025-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>http://www.20240731.xyz/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2025-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.20240731.xyz/categories/%E8%AF%97%E8%AF%8D/</loc>
     <lastmod>2025-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
